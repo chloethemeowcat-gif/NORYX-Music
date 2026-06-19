@@ -1,36 +1,36 @@
 module.exports = {
 nodes: [
     {
-        host: "lava-v4.ajieblogs.eu.org",
-        password: "https://discord.gg/YYxfms6D7h",
+        host: "lavalinkv4.serenetia.com",
+        password: "https://discord.gg/jEFpwUEggA",
         port: 443,
         secure: true,
         name: "Main"
     },
     {
         host: "lavalinkv4.serenetia.com",
-        password: "https://discord.gg/YYxfms6D7h",
+        password: "https://discord.gg/jEFpwUEggA",
         port: 443,
         secure: true,
         name: "Serenetia"
     },
     {
-        host: "lavalink.jirayu.net",
-        password: "youshallnotpass",
+        host: "lavalinkv4.serenetia.com",
+        password: "https://discord.gg/jEFpwUEggA",
         port: 443,
         secure: true,
         name: "Jirayu"
     },
     {
-        host: "lava-v4.millohost.my.id",
-        password: "https://discord.gg/YYxfms6D7h",
+        host: "lavalinkv4.serenetia.com",
+        password: "https://discord.gg/jEFpwUEggA",
         port: 443,
         secure: true,
         name: "MilloHost"
     },
     {
-        host: "lavalink-v4.triniumhost.com",
-        password: "free",
+        host: "lavalinkv4.serenetia.com",
+        password: "https://discord.gg/jEFpwUEggA",
         port: 443,
         secure: true,
         name: "TriniumHost"
